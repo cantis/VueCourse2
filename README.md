@@ -1,2 +1,4 @@
 # VueCourse2
-2nd Try at my Vue Course
+
+29 Jan 24
+3rd Try
