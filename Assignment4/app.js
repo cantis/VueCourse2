@@ -33,9 +33,6 @@ const app = Vue.createApp({
         toggleVisibility() {
             this.isHidden = !this.isHidden;
         },
-        storeColour(event) {
-            this.colour = event.target.value;
-        }
     }
 });
 
